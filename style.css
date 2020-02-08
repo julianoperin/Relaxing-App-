@@ -25,7 +25,11 @@ body {
     position: relative;
     transform: scale(1);
   }
-  
+
+h1 {
+    font-size: 60px;
+}
+
   .circle {
     background-color: #010f1c;
     height: 100%;
